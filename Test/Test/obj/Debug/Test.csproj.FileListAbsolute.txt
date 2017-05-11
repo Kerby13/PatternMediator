@@ -1,0 +1,9 @@
+C:\Users\serru\Desktop\Test\Test\bin\Debug\Test.exe.config
+C:\Users\serru\Desktop\Test\Test\bin\Debug\Test.exe
+C:\Users\serru\Desktop\Test\Test\bin\Debug\Test.pdb
+C:\Users\serru\Desktop\Test\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\serru\Desktop\Test\Test\obj\Debug\Test.Form1.resources
+C:\Users\serru\Desktop\Test\Test\obj\Debug\Test.Properties.Resources.resources
+C:\Users\serru\Desktop\Test\Test\obj\Debug\Test.csproj.GenerateResource.Cache
+C:\Users\serru\Desktop\Test\Test\obj\Debug\Test.exe
+C:\Users\serru\Desktop\Test\Test\obj\Debug\Test.pdb
